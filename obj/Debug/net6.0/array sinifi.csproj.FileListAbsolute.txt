@@ -1,0 +1,15 @@
+C:\Users\OSMAN\array sinifi\obj\Debug\net6.0\array sinifi.csproj.AssemblyReference.cache
+C:\Users\OSMAN\array sinifi\obj\Debug\net6.0\array sinifi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\array sinifi\obj\Debug\net6.0\array sinifi.AssemblyInfoInputs.cache
+C:\Users\OSMAN\array sinifi\obj\Debug\net6.0\array sinifi.AssemblyInfo.cs
+C:\Users\OSMAN\array sinifi\obj\Debug\net6.0\array sinifi.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\array sinifi\bin\Debug\net6.0\array sinifi.exe
+C:\Users\OSMAN\array sinifi\bin\Debug\net6.0\array sinifi.deps.json
+C:\Users\OSMAN\array sinifi\bin\Debug\net6.0\array sinifi.runtimeconfig.json
+C:\Users\OSMAN\array sinifi\bin\Debug\net6.0\array sinifi.dll
+C:\Users\OSMAN\array sinifi\bin\Debug\net6.0\array sinifi.pdb
+C:\Users\OSMAN\array sinifi\obj\Debug\net6.0\array sinifi.dll
+C:\Users\OSMAN\array sinifi\obj\Debug\net6.0\refint\array sinifi.dll
+C:\Users\OSMAN\array sinifi\obj\Debug\net6.0\array sinifi.pdb
+C:\Users\OSMAN\array sinifi\obj\Debug\net6.0\array sinifi.genruntimeconfig.cache
+C:\Users\OSMAN\array sinifi\obj\Debug\net6.0\ref\array sinifi.dll
